@@ -1046,3 +1046,16 @@ h4 {
     text-align: center;
   }
 }
+
+#bloc-5-cta > div > div > h2 {
+  color: #f3976c !important;
+  font-weight: 700;
+}
+
+.tc-white-ngl {
+  color: black !important;
+}
+
+.btn-contactpage {
+  color: black !important;
+}
