@@ -1067,4 +1067,9 @@ h4 {
   align-items: center;
   flex-direction: column;
 }
+.icon-m
+{
+  padding: 5px;
 }
+}
+
